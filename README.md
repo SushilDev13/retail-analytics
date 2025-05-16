@@ -1,4 +1,4 @@
-# Retail Analytics & Uplift Testing Project
+# Retail Analytics & Uplift Testing
 
 Analysis of customer purchasing behavior and store layout impact using real retail transaction data. Built to support data-driven product placement, promotional targeting, and in-store experiments.
 
